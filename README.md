@@ -1,4 +1,4 @@
-# Ultimate-CG
+# hyper-build
 
 * Build.txt contains build path
 * Conf.txt contains Build configurations
